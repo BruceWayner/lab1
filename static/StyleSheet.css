@@ -1,0 +1,31 @@
+body {
+	background-image: url('https://images4.alphacoders.com/585/thumb-1920-58534.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	
+
+}
+div.image {
+   content:url("https://scontent.fmnl18-1.fna.fbcdn.net/v/t1.0-9/23130784_1034415763368119_8665989932573034645_n.jpg?_nc_cat=111&_nc_oc=AQnavzh4DLu-fUcyKQBTaoKrt9vyGVsednzJ7yzmd5Z2-653PZdOduo_QOmaX9NUVd0&_nc_ht=scontent.fmnl18-1.fna&oh=b78f251503265e77b7aba4a429b87af4&oe=5DA3DB69"); 
+   width:200px; 
+   height:200px;
+   margin: 0 auto;
+}
+div.image1 {
+   content:url("https://giffiles.alphacoders.com/147/14722.gif"); 
+   width:500px; 
+   height:300px;
+   margin: 0 auto;
+   
+   /*content:url("https://steamuserimages-a.akamaihd.net/ugc/171539824354485981/2985AC3752ABA2B83D72F911065002090180C5FB/") style="width:500px;height:300px;
+   content:url("https://66.media.tumblr.com/63058bb2aa0f647abf0681ae3e47dad0/tumblr_njp4sqmLCG1r7sijxo3_500.gif"); style="width:500px;height:300px;
+   content:url("https://media.giphy.com/media/Fn1SGpdsoq544/giphy.gif" style="width:500px;height:300px;");
+   content:url("https://media.giphy.com/media/Gchxbeu88OhdC/giphy.gif" style="width:500px;height:300px;");*/
+}
+div.image2 {
+	content:url("https://66.media.tumblr.com/4ab04adf0459f55a0ebe07e1e62efa61/tumblr_npfus1xI461r0wlweo4_500.gif");
+	width:500px;
+	height:300px;
+	margin: auto;
+}
